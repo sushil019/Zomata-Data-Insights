@@ -1,0 +1,81 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time(min),contact_number,rating,total_orders,is_active
+R001,Garam Palace,Thai,"Sikar, TRIPURA",Tanay Bhargava,35,9082703425,4.9,5,False
+R002,Tandoor Place,Chinese,"Adoni, GOA",Wazir Kale,36,7031727188,2.3,6,False
+R003,Mithai Corner,Mexican,"Imphal, GUJARAT",Yadavi Lal,23,7095149150,3.4,5,False
+R004,Sizzler Royale,Continental,"Baranagar, ANDHRA PRADESH",Ekta Desai,35,7025638466,2.7,10,True
+R005,Flavors Express@0,Chinese,"Asansol, NAGALAND",Gaurang Issac,35,7013689628,4.6,5,False
+R006,Annapurna Kitchen,Thai,"Jhansi, PUNJAB",Saumya Bora,47,8070623985,2.2,7,True
+R007,Flavors Tale,Continental,"Dehradun, PUNJAB",Janaki Bhargava,38,6063976605,2.4,10,False
+R008,Dosa Co,Thai,"Khammam, BIHAR",Widisha Kapur,60,9044719028,1.5,10,True
+R009,Sizzler Kitchen,Italian,"Anantapur, KARNATAKA",Chandresh Hegde,30,6097068652,2.6,6,True
+R010,Flavors Spice,Indian,"Akola, GOA",Advik Bhatt,41,9094887630,4.0,7,True
+R011,Paneer Bliss,Italian,"Guwahati, MIZORAM",Ronith Sur,56,6052626038,2.5,7,False
+R012,Spice Bliss,Continental,"Ambattur, UTTARAKHAND",Jacob Anand,35,9088010319,4.2,10,False
+R013,Garam Tale,Italian,"Durg, MEGHALAYA",Ishanvi Palla,31,7026341573,4.6,9,False
+R014,Chai Co,Chinese,"Kottayam, ASSAM",Hemangini Anne,31,9067823684,3.5,5,False
+R015,Spice Royale,Italian,"Bidar, CHHATTISGARH",Henry Singhal,34,9052972896,4.0,9,True
+R016,Kebab Tale,Thai,"Thiruvananthapuram, KARNATAKA",Gauri Minhas,29,8041671936,4.4,6,False
+R017,Chaat Express,Thai,"South Dumdum, KERALA",Samuel Nagar,38,6047728522,2.9,9,True
+R018,Saffron Haven,Thai,"Chennai, MEGHALAYA",Advik Rattan,21,9010838685,3.8,8,True
+R019,Chaat Kitchen,Chinese,"Tezpur, ANDHRA PRADESH",Abhiram Bedi,49,6015984692,4.6,10,True
+R020,Curry Mahal,Indian,"Machilipatnam, ASSAM",Kabir Mahal,45,9099306413,5.0,9,False
+R021,Tandoor Express,Mexican,"Tinsukia, GUJARAT",Daksh Uppal,56,8045778812,4.0,7,False
+R022,Garam Spice,Mexican,"Khandwa, HIMACHAL PRADESH",Farhan Lall,38,7097371639,3.4,5,False
+R023,Annapurna Kingdom,Thai,"Jehanabad, UTTARAKHAND",David Chawla,60,6072537421,4.6,8,True
+R024,Flavors Express@1,Chinese,"Kadapa, PUNJAB",Isaiah Issac,27,6047327043,4.6,9,True
+R025,Naan Tale@0,Chinese,"Nellore, UTTARAKHAND",Yochana Sodhi,53,9030106738,4.0,5,True
+R026,Sizzler Haven,Chinese,"Bhopal, RAJASTHAN",Zaid Raman,23,7033573605,2.8,5,False
+R027,Garam Kitchen,Thai,"Bulandshahr, MAHARASHTRA",Ishaan Kothari,28,8084836573,2.9,7,False
+R028,Kebab Kingdom@0,Mexican,"Indore, MADHYA PRADESH",Jason Bansal,23,8037613566,4.2,6,True
+R029,Naan Place,Mexican,"Patiala, TRIPURA",Robert Sampath,28,7033020887,4.6,9,False
+R030,Naan World,Thai,"Pallavaram, KERALA",Aarini Chacko,50,9055658775,3.7,9,True
+R031,Biryani Bliss,Mexican,"South Dumdum, NAGALAND",Shaurya Bora,27,7081103073,4.1,6,False
+R032,Roti Co,Chinese,"Hajipur, ASSAM",Hredhaan Nigam,42,7035381176,2.8,8,False
+R033,Curry World,Chinese,"Ozhukarai, HIMACHAL PRADESH",Turvi Mutti,25,9036142112,4.8,7,False
+R034,Spice Haven,Mexican,"Nadiad, BIHAR",Suhani Gera,22,9042775739,1.5,10,False
+R035,Rasa Co,Chinese,"Mumbai, UTTARAKHAND",Ishwar Golla,41,9092751159,3.6,6,True
+R036,Rasa Station,Mexican,"Amritsar, NAGALAND",Hemangini Sagar,45,9069886362,5.0,10,True
+R037,Chai Place,Continental,"Bally, MAHARASHTRA",Anirudh Virk,60,9031084001,2.2,8,False
+R038,Tandoori Bliss@0,Chinese,"Arrah, ASSAM",Logan Shan,27,6034994464,3.4,6,False
+R039,Naan Royale,Thai,"Dhule, WEST BENGAL",Anthony Krishna,22,6025039399,3.3,6,False
+R040,Dosa Tale,Indian,"Begusarai, GOA",Bhavini Natt,25,8082987899,4.3,6,False
+R041,Rasa World,Mexican,"Bhopal, WEST BENGAL",Brinda Vohra,31,8036784589,3.3,5,False
+R042,Chaat Palace,Thai,"Muzaffarpur, UTTAR PRADESH",Frado Ahuja,21,8074448909,2.6,10,False
+R043,Naan Corner,Thai,"Jodhpur, TAMIL NADU",Saksham Singhal,58,9017418463,1.1,9,False
+R044,Mithai Mahal,Mexican,"Bhiwandi, UTTAR PRADESH",Zayyan Mishra,38,6070572368,4.0,8,True
+R045,Paneer Bistro,Chinese,"Jodhpur, TRIPURA",Simon Peri,27,9048036749,4.6,5,False
+R046,Flavors Delight,Mexican,"Pudukkottai, KERALA",Gaurang Sodhi,40,8080394808,1.0,9,True
+R047,Roti Palace,Mexican,"Eluru, MANIPUR",Dayamai Deep,20,9066488408,3.4,6,False
+R048,Kebab Delight,Continental,"Begusarai, ARUNACHAL PRADESH",Hamsini Chaudhry,29,7011600967,3.0,9,False
+R049,Rasa Spot,Continental,"Kurnool, HARYANA",Brinda Aurora,22,9026524787,2.2,6,True
+R050,Golden House,Indian,"Gangtok, HARYANA",Faraj Rajan,57,8038492262,2.8,5,True
+R051,Chai Bliss,Italian,"Bulandshahr, HIMACHAL PRADESH",William Mammen,46,6076345385,2.5,7,False
+R052,Roti House,Thai,"Begusarai, PUNJAB",Kai Bhagat,45,9013293447,4.0,6,True
+R053,Masala Bliss,Thai,"Akola, MANIPUR",Sanaya Ramachandran,34,7013582765,4.2,10,True
+R054,Tandoor Co,Chinese,"Mira-Bhayandar, ASSAM",Janya Dugar,36,7057591611,4.8,5,False
+R055,Golden Royale,Mexican,"Phusro, SIKKIM",Abha Sarma,36,9093416040,4.9,10,False
+R056,Naan Tale@1,Mexican,"Varanasi, MADHYA PRADESH",Gaurangi Krishna,49,7090668978,3.5,10,False
+R057,Dosa Treats,Chinese,"Satara, TELANGANA",Niharika Jayaraman,24,9029090456,1.1,8,False
+R058,Masala House,Chinese,"Baranagar, PUNJAB",Anthony Nori,26,7013940110,1.4,7,False
+R059,Tandoor House,Italian,"Chennai, HARYANA",Tara Atwal,43,8089625352,2.7,8,True
+R060,Annapurna Bliss,Chinese,"Ulhasnagar, NAGALAND",Zansi Dar,36,9075376366,3.0,8,True
+R061,Kebab House,Mexican,"Nangloi Jat, SIKKIM",Yuvraj Bhattacharyya,45,8028494193,1.3,8,True
+R062,Mithai Tale,Indian,"Erode, KARNATAKA",Yatan Saxena,45,6061236302,4.6,7,False
+R063,Roti Mahal,Italian,"Medininagar, UTTARAKHAND",Lipika Seth,60,6045389269,3.7,5,False
+R064,Roti Kitchen,Thai,"Jodhpur, PUNJAB",Lakshmi Maharaj,33,6053722439,4.8,6,True
+R065,Sizzler Palace,Indian,"Serampore, PUNJAB",Avi Mand,42,9063542666,4.0,5,False
+R066,Biryani Corner,Mexican,"Parbhani, MAHARASHTRA",Bachittar Bose,27,9093909162,2.1,7,True
+R067,Tandoori Bliss@1,Thai,"Thiruvananthapuram, CHHATTISGARH",Michael Varughese,60,7091393228,4.5,6,False
+R068,Kebab Kingdom@1,Italian,"Mumbai, MADHYA PRADESH",Rajeshri Char,37,6019555763,1.2,10,False
+R069,Curry Co,Italian,"Guntakal, ANDHRA PRADESH",Nidhi Batra,34,7025422357,2.2,9,False
+R070,Garam Co,Thai,"Jehanabad, UTTAR PRADESH",Faraj Kannan,49,9079629245,2.7,8,False
+R071,Tandoori Tale,Mexican,"Gurgaon, JHARKHAND",Tejas Bains,22,7063782044,2.6,9,False
+R072,Golden Spice,Thai,"Hajipur, HARYANA",Fariq Gill,54,9029162383,1.2,10,False
+R073,Saffron World,Indian,"Bhubaneswar, MANIPUR",Mohini Sahota,48,8013407452,3.9,5,True
+R074,Kebab Bistro,Mexican,"Srikakulam, GOA",Shivansh Vasa,39,6046141694,2.9,7,True
+R075,Curry Palace,Continental,"Amaravati, MAHARASHTRA",Chameli Krishnan,34,6020676042,4.3,7,False
+R076,Dosa Kitchen,Chinese,"Tezpur, BIHAR",Vedant Bora,29,7096620767,4.4,9,True
+R077,Tandoori Bistro,Indian,"Gandhinagar, MIZORAM",Anay D’Alia,44,9017542224,3.5,8,False
+R078,Mithai Spice,Chinese,"Silchar, UTTARAKHAND",Yashawini Bhatti,40,7067639289,3.9,5,False
+R079,Biryani Royale,Italian,"Faridabad, HARYANA",Ekalinga Khalsa,20,6039510994,3.9,9,False
+R080,Naan Spice,Mexican,"Sagar, HARYANA",Omkaar Seth,31,6081175114,5.0,8,False

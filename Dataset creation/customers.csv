@@ -1,0 +1,291 @@
+customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+C001,Timothy,timothy@gmail.com,7077107836,"H.No. 591, Gour Marg, Cuttack, ODISHA",2023-01-02,False,italian,6,3.6
+C002,Gunbir,gunbir@gmail.com,9088685024,"88/002, Morar Circle, Sultan Pur Majra, GOA",2021-02-16,True,chinese,4,3.4
+C003,Qadim,qadim@gmail.com,9088487610,"778, Choudhary Nagar, Gurgaon, SIKKIM",2023-04-25,True,mexican,7,2.3
+C004,Leela,leela@gmail.com,7094534770,"03
+Wason Ganj, Bhubaneswar, HARYANA",2020-11-04,False,mexican,8,2.5
+C005,Hemangini,hemangini@gmail.com,9084382786,"52/91
+Borra Nagar, Proddatur, GOA",2020-02-27,True,mexican,2,3.3
+C006,Elijah,elijah@gmail.com,6030291640,"212, Hora Road, Kulti, KARNATAKA",2022-04-15,False,indian,4,4.9
+C007,Saksham,saksham@gmail.com,6033599408,"06/95, Iyer, Avadi, ASSAM",2024-05-01,False,indian,2,2.2
+C008,Yamini,yamini@gmail.com,7099093844,"H.No. 277
+Dubey Zila, Tiruvottiyur, KARNATAKA",2024-10-19,True,indian,7,3.9
+C009,Aarna,aarna@gmail.com,9053368400,"72/12, Khare Road, Katni, TRIPURA",2022-06-23,True,italian,1,1.2
+C010,Maanas,maanas@gmail.com,9078884616,"019, Raj Marg, Jammu, CHHATTISGARH",2024-05-13,False,mexican,10,3.6
+C011,Gautam,gautam@gmail.com,8041824776,"384, Yadav Nagar, Phagwara, TELANGANA",2023-04-20,True,italian,5,4.6
+C012,Lucky,lucky@gmail.com,8089233345,"H.No. 68, Yogi Road, Bhusawal, GUJARAT",2024-07-18,True,italian,4,3.0
+C013,Azad,azad@gmail.com,9071304710,"60, Nadig, Jhansi, ANDHRA PRADESH",2023-09-23,False,indian,5,5.0
+C014,Balvan,balvan@gmail.com,7081784994,"68, Pillai Path, Kolkata, CHHATTISGARH",2020-10-05,True,indian,6,1.2
+C015,Baghyawati,baghyawati@gmail.com,8051898847,"94, Venkataraman Ganj, Giridih, MADHYA PRADESH",2023-08-14,False,chinese,7,1.9
+C016,Vamakshi,vamakshi@gmail.com,6057275162,"41
+Rastogi Marg, Tirupati, UTTAR PRADESH",2025-01-01,True,indian,3,2.0
+C017,Harinakshi,harinakshi@gmail.com,6014276183,"31, Gala Circle, Gorakhpur, ANDHRA PRADESH",2022-10-06,False,italian,2,1.5
+C018,Aarini,aarini@gmail.com,8069418401,"07/62, Dayal Ganj, Barasat, MANIPUR",2021-02-27,True,chinese,10,3.4
+C019,Shivansh,shivansh@gmail.com,6065296124,"30/52, Chakraborty Marg, Amaravati, TRIPURA",2022-10-28,True,italian,4,2.4
+C020,Yoshita,yoshita@gmail.com,8059937310,"212, Wali Circle, Raiganj, KERALA",2024-05-06,False,italian,10,1.0
+C021,Advika,advika@gmail.com,6013914441,"98/477
+Bal Nagar, Gandhidham, JHARKHAND",2022-06-15,True,indian,5,2.3
+C022,Faras,faras@gmail.com,8099617799,"65, Nadkarni Circle, Sonipat, GOA",2023-08-02,True,italian,1,2.6
+C023,Yahvi,yahvi@gmail.com,9028143210,"70
+Borra Chowk, Ulhasnagar, MADHYA PRADESH",2024-05-06,False,mexican,7,4.8
+C024,Raghav,raghav@gmail.com,7052775428,"H.No. 34, Banerjee Ganj, Nadiad, ASSAM",2023-11-17,True,chinese,3,2.8
+C025,Shaurya,shaurya@gmail.com,7040872292,"76, Sankar Street, Delhi, CHHATTISGARH",2021-01-18,True,mexican,5,5.0
+C026,Tejas,tejas@gmail.com,7054040373,"22/468
+Sibal Nagar, Panihati, ARUNACHAL PRADESH",2020-04-17,False,mexican,4,1.6
+C027,Turvi,turvi@gmail.com,7068669338,"10/26
+Sawhney Road, Kollam, HIMACHAL PRADESH",2020-03-14,False,mexican,3,1.8
+C028,Urishilla,urishilla@gmail.com,7072728613,"273
+Saraf Nagar, Jamnagar, ASSAM",2021-11-01,False,indian,2,4.9
+C029,Manthan,manthan@gmail.com,8010934293,"430
+Mitra Marg, Tenali, WEST BENGAL",2022-10-24,False,indian,3,1.8
+C030,Lucky,lucky@gmail.com,8014776573,"H.No. 48, Nazareth Marg, Bhiwandi, MAHARASHTRA",2022-07-11,False,italian,4,1.6
+C031,Zarna,zarna@gmail.com,7056002785,"63, Bhargava Street, Baranagar, ARUNACHAL PRADESH",2023-12-31,True,italian,7,2.6
+C032,Watika,watika@gmail.com,8076823775,"H.No. 96, Mannan, Dewas, UTTARAKHAND",2022-01-04,False,mexican,2,1.9
+C033,Urishilla,urishilla@gmail.com,6033580732,"43
+Kapur Nagar, Burhanpur, PUNJAB",2023-08-08,True,chinese,3,4.8
+C034,Robert,robert@gmail.com,8053716113,"48
+Sane Circle, Rajahmundry, MIZORAM",2024-12-10,False,italian,6,2.5
+C035,Sara,sara@gmail.com,9033451049,"H.No. 54, Mane, South Dumdum, MAHARASHTRA",2020-12-01,False,chinese,10,4.8
+C036,Lucky,lucky@gmail.com,7046682768,"H.No. 99
+Tiwari Ganj, Bettiah, ASSAM",2021-07-22,False,indian,3,3.4
+C037,Bachittar,bachittar@gmail.com,9016547193,"H.No. 632, Chandran Marg, Bahraich, MADHYA PRADESH",2020-07-01,True,chinese,10,2.0
+C038,Nandini,nandini@gmail.com,9017611066,"38/79, Morar Circle, Berhampore, KERALA",2021-07-18,True,mexican,8,2.8
+C039,Tristan,tristan@gmail.com,7071742631,"48/45
+Agate, Bhusawal, MAHARASHTRA",2024-06-06,True,chinese,10,2.0
+C040,Anusha,anusha@gmail.com,7021412320,"43
+Sawhney Zila, Pimpri-Chinchwad, KARNATAKA",2024-01-17,False,mexican,3,1.9
+C041,Nikita,nikita@gmail.com,8049308037,"34, Bora Zila, Guntakal, ODISHA",2022-04-21,True,chinese,2,3.1
+C042,Frederick,frederick@gmail.com,6036511274,"H.No. 511, Jayaraman Marg, Tinsukia, TRIPURA",2022-12-21,False,indian,8,2.9
+C043,Jai,jai@gmail.com,9032255426,"H.No. 213
+Aggarwal, Bidar, PUNJAB",2021-02-22,False,indian,10,2.6
+C044,Hiral,hiral@gmail.com,7048795666,"352, Kumer Marg, Ballia, TELANGANA",2022-08-01,True,chinese,10,1.8
+C045,Nicholas,nicholas@gmail.com,8089158727,"89/073
+Badal Path, Jammu, BIHAR",2022-09-23,True,mexican,7,3.4
+C046,Sneha,sneha@gmail.com,8028517506,"H.No. 500, Sibal Zila, Barasat, HIMACHAL PRADESH",2021-02-04,False,chinese,5,3.3
+C047,Lila,lila@gmail.com,9084924101,"48/680
+Kala, Srikakulam, RAJASTHAN",2021-06-07,False,italian,3,1.3
+C048,Gagan,gagan@gmail.com,6040855078,"64/69
+Ramanathan Chowk, Munger, SIKKIM",2021-12-25,True,italian,8,1.8
+C049,Jeevika,jeevika@gmail.com,6031472561,"81/816
+Saraf Path, Tiruppur, JHARKHAND",2023-02-28,False,italian,4,1.8
+C050,Chakradhar,chakradhar@gmail.com,7018656508,"69/104
+Seshadri Road, Bikaner, ODISHA",2023-05-07,True,mexican,5,2.5
+C051,Nathaniel,nathaniel@gmail.com,8046446843,"25, Bandi Zila, Dehradun, NAGALAND",2022-01-17,True,italian,4,5.0
+C052,Tanmayi,tanmayi@gmail.com,8091922236,"63/29, Kuruvilla Street, Rewa, ANDHRA PRADESH",2021-12-31,False,mexican,8,3.0
+C053,Pallavi,pallavi@gmail.com,6028430576,"949, Bhandari, Kurnool, MIZORAM",2022-10-27,False,italian,7,3.5
+C054,Ekalinga,ekalinga@gmail.com,6047958167,"276, Dave Road, Bhiwani, NAGALAND",2020-05-07,False,chinese,4,3.3
+C055,Zayan,zayan@gmail.com,6063475499,"H.No. 886, Khanna Nagar, Yamunanagar, MANIPUR",2022-09-06,False,mexican,2,3.7
+C056,Anya,anya@gmail.com,6035549263,"47/635
+Morar Street, Delhi, MIZORAM",2024-10-15,False,indian,1,1.9
+C057,Yashica,yashica@gmail.com,7068736226,"23/30
+Bhat Circle, Junagadh, UTTAR PRADESH",2021-04-11,True,mexican,8,1.4
+C058,Finn,finn@gmail.com,7097968890,"22/500
+Konda Street, Karaikudi, KARNATAKA",2023-07-11,True,italian,10,2.1
+C059,Tara,tara@gmail.com,6041683115,"59/951
+Virk Circle, Srinagar, MIZORAM",2020-05-02,True,chinese,3,2.8
+C060,Samaksh,samaksh@gmail.com,7020406954,"039
+Yohannan Road, Ballia, TELANGANA",2024-11-12,False,chinese,5,1.6
+C061,Hredhaan,hredhaan@gmail.com,6046014591,"H.No. 62, Gour Ganj, Ambala, CHHATTISGARH",2023-03-30,False,italian,9,1.4
+C062,Barkha,barkha@gmail.com,9081096259,"439, Lad Path, Salem, WEST BENGAL",2020-07-05,False,mexican,4,4.3
+C063,Ekavir,ekavir@gmail.com,7056301150,"H.No. 07, Bava Zila, Bikaner, MANIPUR",2022-09-18,False,indian,6,4.9
+C064,Anay,anay@gmail.com,9060441032,"H.No. 69, Raghavan Nagar, Jehanabad, ODISHA",2024-05-23,True,mexican,2,2.4
+C065,Urishilla,urishilla@gmail.com,7047599915,"23/165
+D’Alia, Barasat, UTTAR PRADESH",2020-07-09,False,mexican,10,2.4
+C066,Wridesh,wridesh@gmail.com,7071096851,"63
+Ray Marg, Haldia, CHHATTISGARH",2020-03-14,True,italian,6,2.8
+C067,Waida,waida@gmail.com,9077150216,"H.No. 414
+Chauhan Nagar, Davanagere, ASSAM",2023-01-10,True,italian,4,4.7
+C068,Ekanta,ekanta@gmail.com,8023037943,"H.No. 715, Basak Zila, Lucknow, PUNJAB",2020-05-15,False,indian,9,3.2
+C069,Madhavi,madhavi@gmail.com,9038495684,"55/142, Ramanathan Chowk, Bilaspur, TAMIL NADU",2020-07-08,False,indian,3,2.9
+C070,Kashish,kashish@gmail.com,7023458797,"034, Bala Road, Aizawl, ANDHRA PRADESH",2020-04-21,True,indian,1,4.8
+C071,Chakrika,chakrika@gmail.com,9024366654,"99
+Koshy Nagar, Secunderabad, ARUNACHAL PRADESH",2023-02-16,True,indian,5,1.7
+C072,Chakradev,chakradev@gmail.com,6047550992,"95/52
+Dugar Road, Sangli-Miraj & Kupwad, GOA",2024-10-28,False,mexican,4,2.1
+C073,Chakrika,chakrika@gmail.com,8057283997,"H.No. 031
+Sekhon Circle, Sirsa, MIZORAM",2020-10-30,False,mexican,5,2.7
+C074,Azaan,azaan@gmail.com,8021317566,"843
+Bandi Marg, Kirari Suleman Nagar, MEGHALAYA",2022-01-11,True,italian,1,4.9
+C075,Pranit,pranit@gmail.com,7054034307,"49/623, Samra Circle, Hapur, ODISHA",2022-11-15,False,italian,3,3.8
+C076,Pavani,pavani@gmail.com,7037700487,"64/06
+Mitter Zila, Anand, ANDHRA PRADESH",2023-05-26,True,chinese,5,3.4
+C077,Ridhi,ridhi@gmail.com,9014411750,"H.No. 18
+Dhawan Zila, Panchkula, KERALA",2020-05-04,False,chinese,7,3.0
+C078,Maya,maya@gmail.com,7058599240,"H.No. 35, Kala Road, Raichur, HIMACHAL PRADESH",2021-10-23,False,mexican,6,3.6
+C079,Noah,noah@gmail.com,8026170501,"H.No. 686, Chaudry Road, Sultan Pur Majra, TELANGANA",2021-08-26,True,chinese,9,4.9
+C080,Oscar,oscar@gmail.com,9070486308,"05/619, Ramachandran Street, Salem, ASSAM",2020-05-25,False,mexican,6,3.4
+C081,Lavanya,lavanya@gmail.com,6043275339,"720
+Shetty Nagar, Buxar, UTTARAKHAND",2023-10-09,False,chinese,10,2.2
+C082,Laban,laban@gmail.com,6029714941,"82/772, Pandey, Agra, MADHYA PRADESH",2024-04-01,False,mexican,4,1.1
+C083,Neel,neel@gmail.com,9011409017,"19/42, Thaker Zila, Srinagar, WEST BENGAL",2025-01-18,True,italian,5,2.4
+C084,Sachi,sachi@gmail.com,7016986139,"665, Gandhi Ganj, Chapra, MANIPUR",2022-12-06,False,chinese,7,1.0
+C085,Amruta,amruta@gmail.com,6083042212,"H.No. 351, Varughese Path, Khammam, HIMACHAL PRADESH",2024-12-31,True,mexican,5,2.6
+C086,Balhaar,balhaar@gmail.com,8068276423,"H.No. 87
+Kohli Road, Vijayawada, TAMIL NADU",2021-04-01,True,chinese,2,2.0
+C087,Ansh,ansh@gmail.com,9021436468,"38
+Sura Road, Patiala, ASSAM",2023-01-01,True,indian,2,4.7
+C088,Kevin,kevin@gmail.com,8065469649,"321
+Dugar, Kanpur, TELANGANA",2021-01-06,False,mexican,10,1.2
+C089,Agastya,agastya@gmail.com,6092670258,"H.No. 807, Basu Road, Tirupati, PUNJAB",2020-02-06,True,mexican,4,4.1
+C090,Leena,leena@gmail.com,9047946501,"44/247, Sem Road, Chittoor, TAMIL NADU",2023-12-31,False,mexican,6,2.4
+C091,Dayamai,dayamai@gmail.com,6058555881,"H.No. 961, Sahota, Ramgarh, MEGHALAYA",2024-06-06,True,indian,6,1.5
+C092,Harini,harini@gmail.com,6064518277,"99
+Dubey Path, Malegaon, ARUNACHAL PRADESH",2021-12-02,False,italian,1,4.8
+C093,Avi,avi@gmail.com,8055666563,"155
+Bhatt Street, Vijayanagaram, NAGALAND",2025-01-19,False,indian,4,2.4
+C094,Utkarsh,utkarsh@gmail.com,7019488179,"19, Karpe Nagar, Thoothukudi, RAJASTHAN",2022-05-10,False,indian,10,3.6
+C095,Turvi,turvi@gmail.com,8055375282,"H.No. 71
+Wadhwa Path, Thanjavur, MANIPUR",2020-09-27,False,chinese,5,1.9
+C096,Mahika,mahika@gmail.com,6088343829,"26, Kanda Nagar, Navi Mumbai, ARUNACHAL PRADESH",2020-08-13,True,chinese,1,2.2
+C097,Logan,logan@gmail.com,7095345120,"33/72, Manda Circle, Bharatpur, SIKKIM",2020-04-19,True,chinese,5,3.7
+C098,Jeremiah,jeremiah@gmail.com,6092489493,"73/259
+Choudhary, Thane, RAJASTHAN",2021-07-04,True,mexican,6,1.7
+C099,Gopal,gopal@gmail.com,6083547361,"96/501
+Bhargava Street, Pali, HARYANA",2021-09-10,True,mexican,2,3.1
+C100,Mitali,mitali@gmail.com,9034037460,"03/31, Sidhu Chowk, Solapur, MEGHALAYA",2020-12-26,False,mexican,4,3.0
+C101,Faras,faras@gmail.com,9077814327,"H.No. 309, Mannan Zila, Serampore, MAHARASHTRA",2025-01-02,True,mexican,1,3.7
+C102,Januja,januja@gmail.com,8022679738,"42/11, Gaba Road, Moradabad, RAJASTHAN",2021-05-31,True,mexican,5,5.0
+C103,Ishanvi,ishanvi@gmail.com,6050287061,"H.No. 117, Sunder Ganj, Bijapur, HARYANA",2023-05-07,False,mexican,2,1.0
+C104,Charita,charita@gmail.com,8073379327,"57/91
+Khosla Nagar, Dharmavaram, TRIPURA",2023-01-26,True,italian,9,3.8
+C105,Dev,dev@gmail.com,6038722841,"71, Behl Path, Ramgarh, ODISHA",2024-01-12,False,italian,6,2.9
+C106,George,george@gmail.com,9067818172,"47, Bora Marg, Bhubaneswar, TRIPURA",2020-07-26,True,mexican,8,4.1
+C107,Krisha,krisha@gmail.com,7030511836,"H.No. 66
+Sharma Road, Coimbatore, JHARKHAND",2025-02-03,True,mexican,4,1.6
+C108,Indrajit,indrajit@gmail.com,6071242098,"79, Sharma Nagar, Bidhannagar, TAMIL NADU",2021-02-27,True,italian,2,3.1
+C109,Damini,damini@gmail.com,9023823547,"79/153, Mukherjee Chowk, Uluberia, BIHAR",2023-01-26,False,italian,5,2.2
+C110,Pushti,pushti@gmail.com,6024164167,"H.No. 12, Mallick Circle, Mathura, CHHATTISGARH",2024-05-14,True,indian,5,4.0
+C111,Inaya,inaya@gmail.com,8083861537,"02, Anne Circle, Bhopal, BIHAR",2024-07-21,False,mexican,8,2.4
+C112,Chaitaly,chaitaly@gmail.com,8088998743,"H.No. 540
+Dugar Nagar, Begusarai, ARUNACHAL PRADESH",2024-11-20,False,indian,4,4.1
+C113,Warhi,warhi@gmail.com,8064550823,"40/72, Ratta Zila, Gulbarga, CHHATTISGARH",2020-07-13,False,indian,10,3.7
+C114,Chatresh,chatresh@gmail.com,8052613044,"H.No. 73
+Mannan Zila, Sambhal, KARNATAKA",2024-01-15,False,mexican,8,1.9
+C115,Parth,parth@gmail.com,8082663147,"H.No. 307, Contractor Street, Ongole, SIKKIM",2023-09-29,True,chinese,5,1.2
+C116,Libni,libni@gmail.com,8032262160,"H.No. 087, Sem Road, Burhanpur, UTTARAKHAND",2022-01-25,True,mexican,3,1.4
+C117,Upadhriti,upadhriti@gmail.com,6082643132,"60, Balay, Katihar, UTTAR PRADESH",2023-02-16,False,italian,9,4.3
+C118,Yagnesh,yagnesh@gmail.com,6016110888,"25/86
+Bajwa Street, Panihati, UTTAR PRADESH",2020-07-02,True,chinese,9,2.9
+C119,Darpan,darpan@gmail.com,8026163200,"H.No. 045, Dora, Vasai-Virar, ASSAM",2023-03-21,True,indian,9,1.4
+C120,Finn,finn@gmail.com,9078809503,"97/122, Sagar Circle, Jaipur, UTTARAKHAND",2022-12-22,True,italian,10,3.1
+C121,Sudiksha,sudiksha@gmail.com,8021444754,"04
+Oza Zila, Karaikudi, ANDHRA PRADESH",2024-10-09,True,indian,4,1.3
+C122,Radha,radha@gmail.com,9029077182,"23
+Gola Street, Lucknow, GUJARAT",2022-07-09,True,indian,1,1.9
+C123,Logan,logan@gmail.com,9062220716,"07/438
+Chanda Road, Nanded, ARUNACHAL PRADESH",2020-12-02,False,indian,7,3.1
+C124,Vaishnavi,vaishnavi@gmail.com,6022904770,"592
+Rajan Nagar, Phagwara, HIMACHAL PRADESH",2020-04-01,False,mexican,8,3.5
+C125,Nimrat,nimrat@gmail.com,9045578757,"719
+Gera Path, Bidhannagar, TRIPURA",2020-10-04,False,mexican,1,2.2
+C126,Amrita,amrita@gmail.com,9083370203,"H.No. 15
+Bhakta Street, Cuttack, GUJARAT",2021-06-08,False,indian,2,1.1
+C127,Zayyan,zayyan@gmail.com,9019556275,"H.No. 577
+Memon, Shimla, ASSAM",2024-06-04,False,mexican,7,3.3
+C128,Pallavi,pallavi@gmail.com,6099063432,"37/78
+Sant, Udupi, ODISHA",2020-06-06,False,chinese,9,4.4
+C129,Wriddhish,wriddhish@gmail.com,7039348478,"52/399, Kakar Nagar, Motihari, MIZORAM",2022-05-02,True,mexican,4,3.9
+C130,Chakrika,chakrika@gmail.com,8039061564,"675, Mann Zila, Kochi, GUJARAT",2025-01-03,True,italian,3,1.4
+C131,Sarthak,sarthak@gmail.com,8038729314,"H.No. 584
+Randhawa Nagar, Jehanabad, MEGHALAYA",2024-09-11,False,mexican,9,3.4
+C132,Onveer,onveer@gmail.com,8026518055,"90, Dora, Tenali, MANIPUR",2021-10-27,True,mexican,8,2.9
+C133,Tanmayi,tanmayi@gmail.com,9046971101,"H.No. 02
+Wali Road, Chinsurah, JHARKHAND",2021-08-05,True,italian,4,2.5
+C134,Hamsini,hamsini@gmail.com,6019382288,"59/78
+Ravi Zila, Tiruvottiyur, TAMIL NADU",2023-07-17,True,italian,10,3.5
+C135,Lakshmi,lakshmi@gmail.com,7058118926,"58, Sachar Road, Bhilai, GOA",2022-08-04,True,mexican,1,3.3
+C136,Faras,faras@gmail.com,8080028141,"67/235, Muni Nagar, Ozhukarai, MIZORAM",2020-10-03,True,mexican,1,4.1
+C137,Chandani,chandani@gmail.com,9017157047,"H.No. 02, Date Chowk, Jaipur, SIKKIM",2024-01-20,True,italian,9,1.3
+C138,Charan,charan@gmail.com,7020590698,"H.No. 464, Deep, Ahmedabad, HIMACHAL PRADESH",2024-12-21,True,mexican,1,3.7
+C139,Reyansh,reyansh@gmail.com,8018312285,"793
+Chander Circle, Bikaner, GUJARAT",2024-03-14,True,mexican,2,1.1
+C140,Lopa,lopa@gmail.com,7072436182,"68
+Dass Chowk, Siwan, TELANGANA",2021-06-08,False,chinese,2,1.1
+C141,Alka,alka@gmail.com,9023305522,"201, Balakrishnan Chowk, Muzaffarnagar, ANDHRA PRADESH",2024-09-09,False,italian,7,3.1
+C142,Jasmit,jasmit@gmail.com,7023662764,"H.No. 695, Mane Circle, Deoghar, RAJASTHAN",2020-03-31,True,mexican,6,3.6
+C143,Veer,veer@gmail.com,8092636482,"62, Korpal Chowk, Siwan, TRIPURA",2021-11-16,False,italian,8,2.5
+C144,Keya,keya@gmail.com,9072669476,"70/26
+Balay Zila, Gwalior, UTTAR PRADESH",2023-08-18,False,indian,10,2.2
+C145,Sai,sai@gmail.com,8059691486,"30
+Bhargava Street, Khandwa, KARNATAKA",2022-08-26,False,chinese,1,3.2
+C146,Anita,anita@gmail.com,8050440669,"15/65
+Sant Road, New Delhi, ODISHA",2022-08-31,False,italian,7,3.5
+C147,Aditya,aditya@gmail.com,9048012136,"H.No. 88, Gaba Chowk, Mumbai, MAHARASHTRA",2022-08-14,True,mexican,8,2.0
+C148,Anvi,anvi@gmail.com,9061664225,"049
+Saraf Path, Raebareli, TELANGANA",2020-10-01,False,indian,4,4.7
+C149,Jack,jack@gmail.com,8038761744,"98/293
+Edwin, Allahabad, GOA",2022-12-19,False,mexican,2,3.2
+C150,Azad,azad@gmail.com,9059923768,"98/32, Raju Chowk, Sagar, GOA",2020-05-15,False,mexican,3,2.7
+C151,Hritik,hritik@gmail.com,6078973556,"38/640, Sharaf Chowk, Jalandhar, KARNATAKA",2024-07-13,False,indian,1,4.1
+C152,Wridesh,wridesh@gmail.com,7053396366,"99, Handa Chowk, Bellary, HARYANA",2021-06-07,True,mexican,9,4.9
+C153,Chatresh,chatresh@gmail.com,7030951935,"48/575, Saran Zila, Kochi, MIZORAM",2021-08-30,True,indian,10,4.2
+C154,Amrita,amrita@gmail.com,9066990729,"83/565, Goswami Zila, Mirzapur, TELANGANA",2020-06-08,True,italian,7,3.9
+C155,Theodore,theodore@gmail.com,6094792214,"40/860
+Jhaveri, Madanapalle, KARNATAKA",2021-06-20,True,italian,9,3.6
+C156,Eta,eta@gmail.com,8045198678,"H.No. 291, Ratta Ganj, Imphal, BIHAR",2024-01-07,False,mexican,5,4.4
+C157,Vaishnavi,vaishnavi@gmail.com,9014086613,"75
+Kalita Road, Fatehpur, WEST BENGAL",2023-01-23,False,indian,8,3.2
+C158,Chandresh,chandresh@gmail.com,9033313919,"262
+Sarraf Zila, Sambalpur, MADHYA PRADESH",2020-02-05,False,italian,9,1.6
+C159,Geetika,geetika@gmail.com,8091160365,"53
+Dyal Street, Morbi, JHARKHAND",2024-11-21,True,italian,3,4.8
+C160,Harshil,harshil@gmail.com,8051952501,"548, Aurora Nagar, Firozabad, MADHYA PRADESH",2023-12-06,True,mexican,8,4.5
+C161,Qadim,qadim@gmail.com,7041279132,"50/28, Narula Road, Rajkot, MEGHALAYA",2020-07-20,True,indian,7,1.7
+C162,Faqid,faqid@gmail.com,9057238315,"H.No. 305
+Kalla Nagar, Adoni, MEGHALAYA",2022-03-25,True,indian,9,3.2
+C163,Vedhika,vedhika@gmail.com,6094148087,"H.No. 54, Shah Zila, Fatehpur, TAMIL NADU",2020-12-16,False,chinese,2,2.9
+C164,Adweta,adweta@gmail.com,6064943253,"540, Bains Ganj, Sambhal, ASSAM",2020-08-22,False,chinese,3,1.4
+C165,Yashodhara,yashodhara@gmail.com,7011809836,"46/684
+Dubey Nagar, Meerut, MADHYA PRADESH",2023-01-21,True,indian,4,3.5
+C166,Rehaan,rehaan@gmail.com,8043313852,"77/91, Gera Nagar, Kishanganj, PUNJAB",2020-09-25,True,mexican,1,2.9
+C167,Ekalinga,ekalinga@gmail.com,9082464896,"16/54
+Golla Ganj, Phagwara, ANDHRA PRADESH",2021-10-03,False,indian,7,1.1
+C168,Gauri,gauri@gmail.com,8071231878,"502
+Wable Path, Eluru, UTTARAKHAND",2024-05-30,True,italian,6,3.6
+C169,Nicholas,nicholas@gmail.com,9029070399,"21
+Vasa Chowk, Muzaffarpur, MEGHALAYA",2023-01-20,True,indian,9,3.9
+C170,Ranveer,ranveer@gmail.com,7011463776,"66/77
+Batra Street, Pune, MADHYA PRADESH",2023-06-09,False,chinese,4,4.6
+C171,Leena,leena@gmail.com,9058462453,"H.No. 663
+Tak Nagar, Ozhukarai, KARNATAKA",2021-07-28,False,italian,7,2.0
+C172,Oeshi,oeshi@gmail.com,9019771816,"789, Bandi Marg, Bally, MANIPUR",2021-05-09,True,italian,8,3.5
+C173,Jalsa,jalsa@gmail.com,7035943491,"H.No. 05
+Sangha Chowk, Guwahati, SIKKIM",2022-01-10,True,chinese,4,2.6
+C174,Victor,victor@gmail.com,9013696567,"H.No. 14, Chadha Nagar, Bhind, PUNJAB",2023-03-31,False,indian,3,3.4
+C175,Robert,robert@gmail.com,7099462707,"47/929, Sanghvi Zila, Dharmavaram, MIZORAM",2023-09-11,True,mexican,6,4.7
+C176,Kai,kai@gmail.com,9044209122,"01/050
+Chhabra Path, Raiganj, SIKKIM",2022-07-31,False,italian,4,2.2
+C177,Ekani,ekani@gmail.com,8085488251,"H.No. 79
+Lad Zila, Karaikudi, GOA",2022-03-09,False,mexican,4,1.1
+C178,Ekapad,ekapad@gmail.com,9051382453,"H.No. 418
+Bahri Road, Sasaram, TELANGANA",2021-10-16,True,chinese,5,1.6
+C179,Max,max@gmail.com,6019306051,"66/097, Thakur Road, Shimla, MEGHALAYA",2020-02-16,True,mexican,8,3.2
+C180,Idika,idika@gmail.com,7035457008,"29, Patil Circle, Avadi, KERALA",2024-01-07,True,indian,8,1.1
+C181,Hema,hema@gmail.com,6020393246,"472, Venkatesh Nagar, Guntur, KERALA",2023-10-12,False,indian,3,4.2
+C182,Kashvi,kashvi@gmail.com,9057636433,"56/03
+Mandal Ganj, Dhanbad, UTTARAKHAND",2021-01-01,True,indian,6,4.2
+C183,Dayamai,dayamai@gmail.com,8058530682,"16/21, Peri Nagar, Bokaro, PUNJAB",2022-01-26,True,chinese,9,3.2
+C184,Anusha,anusha@gmail.com,9012087882,"30
+Rout Ganj, Aurangabad, SIKKIM",2022-06-10,True,mexican,9,1.5
+C185,Samuel,samuel@gmail.com,8034831879,"85/65, Konda Road, Pimpri-Chinchwad, JHARKHAND",2023-12-08,False,indian,5,3.1
+C186,Thomas,thomas@gmail.com,8052622511,"57
+Joshi Zila, Pune, UTTARAKHAND",2021-01-15,False,chinese,5,3.6
+C187,David,david@gmail.com,8057764128,"02, Pandya Zila, Satara, KERALA",2020-07-11,False,italian,7,3.6
+C188,Forum,forum@gmail.com,9069320248,"21
+Kaur Chowk, Rajkot, BIHAR",2022-04-04,True,indian,3,4.1
+C189,Bhavini,bhavini@gmail.com,7039598532,"49, Narayan Marg, Giridih, RAJASTHAN",2022-02-24,True,indian,3,4.5
+C190,Udarsh,udarsh@gmail.com,6028054648,"331, Bhatt Zila, Indore, RAJASTHAN",2021-08-22,False,chinese,6,4.0
+C191,Amol,amol@gmail.com,7095885660,"23/729
+Narasimhan Chowk, Vellore, SIKKIM",2020-03-09,True,mexican,7,3.2
+C192,Falan,falan@gmail.com,6018554217,"03/73, Radhakrishnan Road, Indore, TRIPURA",2024-02-29,True,mexican,4,3.8
+C193,Ethan,ethan@gmail.com,9090746219,"56/581
+Comar Ganj, Guntur, MADHYA PRADESH",2022-03-07,True,chinese,4,1.7
+C194,Adweta,adweta@gmail.com,7031729333,"03/242, Parekh Marg, Hospet, ASSAM",2023-12-24,False,indian,1,2.9
+C195,Pahal,pahal@gmail.com,9049380318,"01/65
+Dayal Chowk, Raichur, ODISHA",2020-06-21,True,chinese,1,2.4
+C196,Manan,manan@gmail.com,9084312287,"H.No. 882, Bhatnagar Chowk, Gulbarga, MANIPUR",2022-12-10,True,mexican,9,4.9
+C197,Upkaar,upkaar@gmail.com,7062984042,"43/61, Kapur Street, Bhiwani, GUJARAT",2021-10-29,False,chinese,8,4.9
+C198,Alexander,alexander@gmail.com,8019316128,"205, Baral, Thoothukudi, KERALA",2022-11-04,True,italian,1,4.5
+C199,Samaksh,samaksh@gmail.com,9030319779,"06/89
+Wagle, Nellore, ANDHRA PRADESH",2022-01-22,False,italian,10,1.9
+C200,Hiral,hiral@gmail.com,8053581214,"H.No. 15, Parmar Circle, Ahmedabad, GOA",2020-09-08,True,chinese,8,4.0

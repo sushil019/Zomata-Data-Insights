@@ -120,34 +120,9 @@ class CRUDOperations:
                 st.warning("No tables found in the database.")
                 return
             selected_table = st.selectbox("Select a table to delete from", table_names)
-            action = st.selectbox("Choose an action", ["Delete Columns", "Delete Rows", "Drop Table"])
+            action = st.selectbox("Choose an action", ["Delete Rows", "Drop Table"])
 
-            if action == "Delete Columns":
-                columns = self.db.fetch_columns(selected_table)
-                if not columns:
-                    st.warning("No columns found in the selected table.")
-                    return
-                condition_column = st.selectbox(
-                    f"Select column for condition to delete columns from '{selected_table}'", columns
-                )
-                condition_value = st.text_input(
-                    f"Enter the value for {condition_column}", placeholder="Press Enter to apply"
-                )
-                if st.button("Delete Columns"):
-                    if not condition_value:
-                        st.warning("Please provide a condition value to delete Columns.")
-                    else:
-                        query = f"DELETE FROM {selected_table} WHERE {condition_column} = %s"
-                        params = (condition_value,)
-                        success, error = self.run_query(query, params)
-                        if success:
-                            st.success(
-                                f"Column deleted successfully from '{selected_table}' where {condition_column} = '{condition_value}'."
-                            )
-                        else:
-                            st.error(f"Error while deleting column: {error}")
-
-            elif action == "Delete Rows":
+            if action == "Delete Rows":
                 columns = self.db.fetch_columns(selected_table)
                 if not columns:
                     st.warning("No columns found in the selected table.")
